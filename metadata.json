@@ -1,0 +1,6 @@
+{
+  "name": "CampusEase",
+  "description": "Verified local services for DBS Global University (DGU) hostel and off-campus students in Dehradun — laundry, printing, stationery, tiffin, minor repairs, and hostel essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
